@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 2,
+      "nama": "Reza",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 3,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 4,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 5,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 6,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 7,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 8,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 9,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    },
+    {
+      "id": 10,
+      "nama": "Basrizal",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "089278342"
+    }
+  ]
+}
